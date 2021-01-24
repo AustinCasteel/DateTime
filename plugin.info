@@ -1,0 +1,10 @@
+[Plugin]
+Name = Date Time
+Version = 1.0
+License = MIT
+URL = https://github.com/austincasteel/DateTime/
+Description = Have Naomi tell you the date or time
+
+[Author]
+Name = Austin Casteel
+URL = https://github.com/austincasteel/
